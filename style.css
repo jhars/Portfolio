@@ -1,0 +1,14 @@
+.col-md-12 {
+	background-image: url(http://i.imgur.com/qTTHrDl.jpg);
+	height: 200px;
+	color:white;
+}
+
+.col-md-6 {
+	text-align: center;
+}
+
+.img {
+	margin-left: auto;
+    margin-right: auto;
+}
